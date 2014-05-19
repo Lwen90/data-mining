@@ -2,16 +2,21 @@
 ===========
 
 <h2>content<h2>
-kNN<br/>
+<p>kNN<br/>
 naiveBayes<br/>
 svm<br/>
 kmeans<br/>
 hierarchy cluster<br/>
+<p>
 
-<h3>required library </h3>
+<h2>required library </h2>
+<p>
 e1071, tm, kknn, ROCR, kernlab etc.<br/>
 import the project .RData fristly.<br/>
-#Steps
+</p>
+
+
+<h2>Steps </h2>
 
 
 
