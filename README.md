@@ -1,5 +1,4 @@
 <h1>data-mining<h1>
-===========
 
 <h2>content<h2>
 <p>kNN<br/>
