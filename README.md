@@ -1,17 +1,17 @@
-data-mining
+<h1>data-mining<h1>
 ===========
 
-Data mining
-including 
-kNN
-naiveBayes
-svm
-kmeans
-hierarchy cluster
+<h2>content<h2>
+kNN<br/>
+naiveBayes<br/>
+svm<br/>
+kmeans<br/>
+hierarchy cluster<br/>
 
-#required library 
-e1071, tm, kknn, ROCR, kernlab etc.
+<h3>required library </h3>
+e1071, tm, kknn, ROCR, kernlab etc.<br/>
+import the project .RData fristly.<br/>
+#Steps
 
-import the project .RData
 
 
