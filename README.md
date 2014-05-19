@@ -2,7 +2,6 @@ data-mining
 ===========
 
 Data mining
-#.....................Data mining ................
 including 
 kNN
 naiveBayes
